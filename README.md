@@ -42,5 +42,4 @@ The project covers the following test cases:
 - Performing CRUD operations (Create, Read, Update, Delete).
 - Developing menu-driven applications.
 
-## 👨‍💻 Author
-Ronanki Bala
+
