@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Dictionary Management System Output" src="https://github.com/user-attachments/assets/8defce6b-01be-493f-a951-1c962d514eaa" /># Dictionary Management System
+Dictionary Management System
 
 ## 📌 Project Overview
 The Dictionary Management System is a simple Python-based project that allows users to manage words and their meanings through a menu-driven program.
