@@ -1,4 +1,4 @@
-Dictionary Management System
+## Dictionary Management System
 
 ## 📌 Project Overview
 The Dictionary Management System is a simple Python-based project that allows users to manage words and their meanings through a menu-driven program.
